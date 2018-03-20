@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KeepMoney.iml" filepath="$PROJECT_DIR$/KeepMoney.iml" />
+      <module fileurl="file://E:\LinAndroid\keepmoney\KeepMoney.iml" filepath="E:\LinAndroid\keepmoney\KeepMoney.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\LinAndroid\keepmoney\app\app.iml" filepath="E:\LinAndroid\keepmoney\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keepmoney.iml" filepath="$PROJECT_DIR$/keepmoney.iml" />
     </modules>
   </component>
 </project>
